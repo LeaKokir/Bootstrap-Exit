@@ -1,0 +1,97 @@
+
+ .navbar{
+  background-color: red;
+ }
+.gore img-fluid{
+  height: 10rem!important;
+}
+  .navbar-nav a {
+   color: white!important; 
+   font-weight: bold;
+   font-size: 1.5rem;
+   margin-left: 10rem;
+   }
+   .txt{
+    margin-top: 1rem;
+    color: white;
+    font-size: 2.5rem;
+    font-weight: bold;
+   }
+   .txt1{
+    font-size: 2rem;
+   }
+   .prvired {
+    margin-top: 1rem;
+   }
+   .drugired{
+    height: auto;
+    background-color:rgb(117, 2, 2);
+    margin-top: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    
+   }
+   .paragraf{
+    font-size: 2rem;
+    text-align: center;
+    color: white;
+    padding-left:1rem ;
+
+   }
+   .p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
+  .kol{
+    border: 1px solid red;
+    background-color: rgb(241, 131, 131);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5px;
+    margin-right: 1rem;
+    padding: 1.5rem;
+    
+  }
+  .kol p{
+    color: black;
+    font-size: 2rem ;
+  
+  }
+  .footer
+ {
+  background-color: red;
+  height: 4rem;
+ }
+
+  .txt{
+    margin-top: 1rem;
+    color: white;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #fff;
+    margin-left: 4rem;
+    margin-right: 4rem;
+   }
+   .txt1{
+    margin-top: 1rem;
+    color: white;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #000000;
+    background-color:  rgb(241, 131, 131) ;
+
+   }
+   .t1{
+    font-size: 3rem;
+    margin-top: 2rem;
+    font-weight: bold;
+    color: white;
+   }
+   .container img{
+    height: 200px;
+   }
+   .kolona{
+    margin-bottom: 1rem;
+  }
